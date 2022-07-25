@@ -6,6 +6,7 @@ public class GitBashSample {
 		// TODO Auto-generated method stub
 System.out.println("GitBash done again");
 //changes done from github to eclipse
+System.out.println("Branch dk");
 	}
 
 }
